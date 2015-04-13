@@ -56,7 +56,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Krzyżanowski Piotr
 1. Ładosz Milena
 1. Mackiewicz Marcin
-1. Mielnikowski Łukasz
+1. Mielnikowski Łukasz [215581](https://my-asiprojekt.herokuapp.com).[miel-proj](https://github.com/Whetold/ASI).
 1. Mroczek Przemysław
 1. Niemczyk Radosław
 1. Pietrzyk Michał
